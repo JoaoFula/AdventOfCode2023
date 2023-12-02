@@ -51,3 +51,5 @@ for game in game_ids:
     if game not in bad_game_ids:
         good_games.append(game)
 print(sum(good_games))
+
+#1867
